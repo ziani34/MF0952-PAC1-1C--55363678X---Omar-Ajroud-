@@ -1,0 +1,52 @@
+Enganxa aquí abaix el teu historial de línia de comandos:
+C:\Users\ifcd0110.CETPENEDES\Documents>doskey /history
+modul3
+mkdir modul3
+move modul3 documents
+move vacances.txt documents
+move vacances.txt modul3
+move vacances.txt documents modul3
+move modul 3 documents
+move modul3 documents
+move modul3
+dir
+move vacances.txt D:/documents
+move vacances.txt D:/modul3
+mv vacaciones modul3
+move vacaciones modul3
+move vacaciones.txt documents
+move vacances.txt D:/documents
+move vacances.txt
+dir
+move vacances.txt C:/documents
+move modul3 documents
+mkdir modul3
+modul3ç
+mkdir
+mkdir modul3
+dir
+move modul3 documents
+move vacances modul3
+move vacances.txt modul3
+move modul3 documentos
+move documents
+move modul3 vacances
+move vacaciones.txt c:\modul3
+move vacaciones.txt c:\documents c:\modul3
+move vacaciones.txt c:\documents\modul3
+move vacances.txt  c:\documents\modul3
+move vacances.txt c:\modul3
+move vacances.txt modul3
+rename
+rename vacances.txt miercoles
+< ren "vacances.txt" "miercoles" >
+< rename "vacances.txt" "miercoles" >
+< ren vacances.txt miercoles >
+< rename vacances.txt miercoles >
+ rename vacances.txt miercoles
+"rename vacances.txt miercoles.txt"
+rename vacances.txt miercoles.txt
+  c:\documents\modul3 rename vacances.txt miercoles.txt
+rename -n vacances.txt miercoles.txt
+ren "vacances.txt " " miercoles.txt "
+doskey /history
